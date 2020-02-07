@@ -4,7 +4,7 @@ var app = express();
 // variaveis de ambiente .env
 require('dotenv').config();
 
-var db = require('@core/db');
+var db = require('@core/db'); //
 
 // module.exports = 'Thiago Zan';
 
